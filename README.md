@@ -17,7 +17,7 @@
 2. Write a program to read two decimal digits whose sum is less than 10 and display them and their sum in the next line with appropriate message.
 
 ### Assignment 05
-For each of the following instructions, give the new destination contents and the new settings of CF, SF, ZF, PF and OF. Suppose that the flags are initially 0 in each part of this question <br> a) ADD AX, BX where AX contains 7FFFh and BX contains 0001h <br> b) DEC AL where AL contains 00h <br> c) NEG AL where AL contains 7Fh <br> d) XCHG AX, BX where AX contains 1ABCh and BX contains 712Ah
+1. For each of the following instructions, give the new destination contents and the new settings of CF, SF, ZF, PF and OF. Suppose that the flags are initially 0 in each part of this question <br> a) ADD AX, BX where AX contains 7FFFh and BX contains 0001h <br> b) DEC AL where AL contains 00h <br> c) NEG AL where AL contains 7Fh <br> d) XCHG AX, BX where AX contains 1ABCh and BX contains 712Ah
 
 ### Assignment 06
 1. Write a program that will prompt the user to enter a hex digit character (0-F), display it on the next line in decimal and ask the user if he or she wants to do it again. If the user types “Y”, the program repeats. If the  user types “N” the program terminates. If the user enters an illegal character prompt the user to try again. <br>

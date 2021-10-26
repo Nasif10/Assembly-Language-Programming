@@ -24,7 +24,7 @@
 2. Write a program to read two capital letters and display them on the next line in alphabetical order. <br>
 3. Write a program that prompts the user to enter a character, and in subsequent lines, prints its ASCII code in binary and the number of 1 bit in its ASCII code. <br>
 4. Write a program that prompts the user to type a hex number of four hex digits or less, and outputs it in binary on the next line. If the user enters an illegal character, he or she should be prompted to begin again. Accept only uppercase letters. Your program may ignore any input beyond four characters. <br>
-5. Write a program that prompts the user to enter two unsigned hex numbers, 0 to FFFFh, and prints their sum in hex on the next line. If the user enters an illegal character, he or she should be prompted to begin again. Your program should be able to handle the possibility of unsigned overflow. Each input ends with a carriage return. <br>
+5. Write a program that prompts the user to enter two unsigned hex numbers, 0 to FFFFh and prints their sum in hex on the next line. If the user enters an illegal character, he or she should be prompted to begin again. Your program should be able to handle the possibility of unsigned overflow. Each input ends with a carriage return. <br>
 6. Write a program that prompts the user to enter a string of decimal digits, ending with a carriage return, and prints their sum in hex on the next line. If the user enters an illegal character, he or she should be prompted to begin again.
 
 ### Assignment 07
